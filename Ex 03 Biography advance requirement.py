@@ -10,6 +10,6 @@
 
 name=str(input("Enter your name: "))                                                #asking user to input their name
 hometown=str(input("Enter your hometown: "))                                        #asking user to input their homwtown
-age=int(input("Enter your age: "))                                                  #asking user to input their age
+age=str(input("Enter your age: "))                                                  #asking user to input their age
 person_info = {"name":name, "hometown": hometown, "age":age}                        #creating a dictionary
 print(person_info["name"],person_info["hometown"],person_info["age"],sep="\n")      #printing all the values on seperate lines
