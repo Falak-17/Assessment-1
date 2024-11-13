@@ -11,12 +11,12 @@
 country = {"France": "Paris",
 "Germany": "Berlin",
 "Italy": "Rome",
-"Pakistan": "Islamabad",
-"United Arab Emirates": "Abu Dhabi",
+"Austria": "Vienna",
+"Denmark": "Copenhagen",
 "United Kingdom": "London",
-"Japan": "Tokyo",
+"Ireland": "Dublin",
 "Greece": "Athens",
-"Canada": "Ottawa",
+"Norway": "Oslo",
 "Hungary": "Budapest"}
 
 score = 0                                                             #original score is zero
