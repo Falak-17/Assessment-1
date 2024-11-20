@@ -10,6 +10,4 @@ def check_even_or_odd():
         print("The number is even")              
     else:
         print("The number is odd")
-    
-if __name__=="__main__":                         #calling the main function()
-    check_even_or_odd()
+check_even_or_odd()                              #calling the main function()   
