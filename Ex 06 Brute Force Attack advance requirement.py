@@ -9,10 +9,10 @@
 
 max_attempts=5                                           #Declaring maximum 5 number of attempts 
 attempt=0
-password="$He110$"                                       #Declare the password
+password="12345"                                         #Declare the password
 while attempt<max_attempts:                              #Using while loop
     password=input("Enter password: ")                   #Asking user to input the corrct password
-    if password=="$He110$":
+    if password=="12345":
        print("Access granted")                           #If condition is fulfilled, access granted
        break                                             #using break funtion to exit the loop if the password is correct
     else:
